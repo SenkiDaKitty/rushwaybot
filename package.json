@@ -5,9 +5,8 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
-    "discordToken": "",
+    "test": "echo "Error: no test specified" && exit 1"
     "channelMapping": {
-      "#other-discord": "#general"
   },
   "author": "RushWay",
   "license": "MIT",
