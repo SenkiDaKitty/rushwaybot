@@ -1,11 +1,11 @@
 {
-  "name": "rushwaybot",
+  "name": "RushWayBot",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
-    "channelMapping": {
+    "start": "node bot.js",
+    "test": "echo "Error: no test specified" && exit 1"
   },
   "author": "RushWay",
   "license": "MIT",
