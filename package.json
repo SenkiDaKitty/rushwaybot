@@ -7,7 +7,7 @@
     "start": "node main.js",
     "test": "echo "Error: no test specified" && exit 1"
     "server": "https://discordapp.com/developers/applications/503887216636854283/information",
-    "discordToken": "NTAzODg3MjE2NjM2ODU0Mjgz.Dq-sTA.ohUsm9zmBkAYXDBthyXnSHdWEW8",
+    "discordToken": "",
     "channelMapping": {
       "#other-discord": "#general"
   },
